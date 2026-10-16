@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunerariaBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ed9219df6c6857e299352c64cd4a80c653f2cc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunerariaBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunerariaBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
